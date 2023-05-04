@@ -14,3 +14,16 @@
 .cor-especial {
     color: darkred;
 }
+
+.botao-cor-especial {
+    background-color: darkred;
+    color: white;
+}
+
+.botao-cor-especial:hover {
+    color: black;
+}
+
+.borda-cor-especial {
+    border-color: darkred;
+}
