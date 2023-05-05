@@ -1,5 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
 
+.card-largura {
+    max-width: 18rem;
+}
+
 .imagem-carrossel {
     object-fit: cover;
     object-position: 0 80%;
@@ -26,4 +30,9 @@
 
 .borda-cor-especial {
     border-color: darkred;
+}
+
+.card-posicao-imagem {
+    object-fit: cover;
+    height: 200px;
 }
