@@ -1,4 +1,4 @@
-# Alura NewsLetter
+# Fruta e Fruto - Bootstrap
 
 Desenvolvimento de uma página única que tem o principal objetivo de fornecer bases sólidas sobre bootstrap, através de um template para uma loja que vende frutas e frutos. 
 
